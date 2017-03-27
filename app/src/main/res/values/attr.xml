@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 锁定宽高比的控件 -->
+    <declare-styleable name="AspectRatio">
+        <attr name="lockWidth" format="boolean" />
+        <attr name="widthWeight" format="integer" />
+        <attr name="heightWeight" format="integer" />
+    </declare-styleable>
+    
+</resources>

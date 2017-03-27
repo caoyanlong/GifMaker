@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_abefcf975ed3db92a6fa046a520121825922a70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="862679f96151949a102d37b018d962961019dc65">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/pl.droidsonroids.gif-android-gif-drawable-1.2.2_664326de4f9673f4c891863f11bfd7a6a8abf20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_1740687ecd39d209c19d34d2439a35c5790beb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_94bc09b2960ca52cdc93bff7b33cb21ca20ad043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_5bf50a2a4902bef4fc593f29f77b160173c10aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_b2adb1b6432f3ae8c6617416b97f098c00146c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_383a943e56f2d2b9ca592d24de66c32f2965c361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_fa8543be2432a60a762f740c698bad104862aa52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_ba8e022917842d22333d40852adf8c5084533bd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_8409c9f21d2b396b9d86f7cf3c8268d11d4172cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f8ea7bc7a911780d1ac5ef47422cad65ef222df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_ff134052b777a76b99a39baaf90a07a6e3624dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2ea6b17b4ea06c3e71b585f29918e1476639067c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_925bbdc21cc1fcab3378fc46840175d603fb18d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9dc860f436bb27a85abd02d2da4a71a67ea8da2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_7433690b7ad22a59ddf033e7573c730bcc3f41bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/GIFMaker/multi-image-selector/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c762eadca20e6969797239cbd36cf3af451e11e1">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/GIFMaker-multi-image-selector-unspecified_73fef5b3288c0997c529353e7ce5685227f5bba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baidu/source/GIFMaker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/baidu/source/GIFMaker/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_5afbed9d538f2187fbac3a7293eb554a75f23b32.jar" />
+    </item>
+
+</items>
